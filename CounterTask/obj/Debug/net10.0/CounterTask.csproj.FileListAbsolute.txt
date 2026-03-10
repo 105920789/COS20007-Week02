@@ -12,3 +12,4 @@ C:\Users\shaun\COS20007-Week02\CounterTask\obj\Debug\net10.0\refint\CounterTask.
 C:\Users\shaun\COS20007-Week02\CounterTask\obj\Debug\net10.0\CounterTask.pdb
 C:\Users\shaun\COS20007-Week02\CounterTask\obj\Debug\net10.0\CounterTask.genruntimeconfig.cache
 C:\Users\shaun\COS20007-Week02\CounterTask\obj\Debug\net10.0\ref\CounterTask.dll
+C:\Users\shaun\COS20007-Week02\CounterTask\obj\Debug\net10.0\CounterTask.sourcelink.json

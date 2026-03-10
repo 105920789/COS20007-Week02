@@ -46,7 +46,7 @@ public class Counter
     {
         _count = 214748350;
     }
-    public void incrementbyfive ()
+    public void IncrementbyFive ()
         {
             _count = _count + 5;
         }
